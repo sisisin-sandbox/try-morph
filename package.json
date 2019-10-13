@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "ts-morph": "^4.2.0",
     "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.12"
   }
 }

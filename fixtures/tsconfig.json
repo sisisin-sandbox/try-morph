@@ -15,6 +15,6 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "forceConsistentCasingInFileNames": true
-  },
-  "include": ["src/*"]
+  }
+  // "include": ["test1.ts", "mod.ts"]
 }
