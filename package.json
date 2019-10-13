@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {"start": "ts-node ./src/mor.ts"},
+  "scripts": {"start": "ts-node ./src/index.ts"},
   "dependencies": {
     "fs-extra": "^8.1.0",
     "ts-morph": "^4.2.0",
